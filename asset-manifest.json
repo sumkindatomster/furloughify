@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/furloughify/static/css/main.e70e4014.chunk.css",
+    "main.js": "/furloughify/static/js/main.07278d5f.chunk.js",
+    "main.js.map": "/furloughify/static/js/main.07278d5f.chunk.js.map",
+    "runtime-main.js": "/furloughify/static/js/runtime-main.48a33639.js",
+    "runtime-main.js.map": "/furloughify/static/js/runtime-main.48a33639.js.map",
+    "static/js/2.434fd9a3.chunk.js": "/furloughify/static/js/2.434fd9a3.chunk.js",
+    "static/js/2.434fd9a3.chunk.js.map": "/furloughify/static/js/2.434fd9a3.chunk.js.map",
+    "static/js/3.ba9ebfd6.chunk.js": "/furloughify/static/js/3.ba9ebfd6.chunk.js",
+    "static/js/3.ba9ebfd6.chunk.js.map": "/furloughify/static/js/3.ba9ebfd6.chunk.js.map",
+    "index.html": "/furloughify/index.html",
+    "static/css/main.e70e4014.chunk.css.map": "/furloughify/static/css/main.e70e4014.chunk.css.map",
+    "static/js/2.434fd9a3.chunk.js.LICENSE.txt": "/furloughify/static/js/2.434fd9a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48a33639.js",
+    "static/js/2.434fd9a3.chunk.js",
+    "static/css/main.e70e4014.chunk.css",
+    "static/js/main.07278d5f.chunk.js"
+  ]
+}
